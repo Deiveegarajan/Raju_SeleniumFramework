@@ -1,0 +1,6 @@
+C:\Projects\Automation_Practice\Raju_SeleniumFramework\CoreBase\bin\Debug\CoreBase.dll
+C:\Projects\Automation_Practice\Raju_SeleniumFramework\CoreBase\bin\Debug\CoreBase.pdb
+C:\Projects\Automation_Practice\Raju_SeleniumFramework\CoreBase\obj\Debug\CoreBase.csprojAssemblyReference.cache
+C:\Projects\Automation_Practice\Raju_SeleniumFramework\CoreBase\obj\Debug\CoreBase.csproj.CoreCompileInputs.cache
+C:\Projects\Automation_Practice\Raju_SeleniumFramework\CoreBase\obj\Debug\CoreBase.dll
+C:\Projects\Automation_Practice\Raju_SeleniumFramework\CoreBase\obj\Debug\CoreBase.pdb
