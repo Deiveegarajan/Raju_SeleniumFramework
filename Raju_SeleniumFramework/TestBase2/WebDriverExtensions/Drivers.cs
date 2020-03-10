@@ -1,16 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using OpenQA.Selenium;
+using OpenQA.Selenium.Internal;
 
 namespace TestBase2
 {
-    public static class Drivers
+    public interface IDrivers : IWebDriver, IFindsById, IFindsByLinkText, IFindsByName, IFindsByXPath
     {
-        public static void RunTest()
-        {
+        void RunTest();
+       // string Make => get;
+    }
 
-        }
+    public interface IElements : IWebElement
+    {
+        //Place holder
     }
 }

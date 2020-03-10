@@ -15,9 +15,9 @@ namespace Selenium.Tests.Base.Selenium.Core
 {
     public static class CommonMethods
     {
-        public static readonly By RedToastContainer = By.Id("toast-container");
-        public static readonly By RedErrorContainer = By.XPath("//div[@class='toast toast-error']");
-        public static readonly By RedToastMessage = By.XPath("//div[@class='toast-message']");
+        public static readonly By RedToastContainer = By.Id("");
+        public static readonly By RedErrorContainer = By.XPath("");
+        public static readonly By RedToastMessage = By.XPath("");
 
         #region KendoDropdown
         public static string NewCaseDrawdown = "//div[@id='caseNewForm']//span[@id='select2-pcp2-container']" +
