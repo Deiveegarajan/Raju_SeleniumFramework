@@ -7,27 +7,133 @@ namespace CSharp_Selenium_Practice
     public class Program : CoreBase
     {
         [Test]
+        public void LogicalProgramming()
+        {
+
+
+            var basicProgram = new LogicalProgramsDerivation();
+            basicProgram.ArrayReverse();
+
+            var stacks = new StacksNonGeneric();
+            stacks.Stack();
+
+            var queue = new QueueNonGeneric();
+            queue.Queue();
+
+            var arrayList = new ArrayListNonGeneric();
+            arrayList.ArrayList();
+        }
+
+        [Test]
+        public void StringProcessing()
+        {
+            var text = new StringAndTextProcessing();
+            text.StringDeclaration();
+            text._StringAndCharArrayAndReplace();
+            text._SwitchingUpperAndLowerCaseLetters();
+            text._SearchStringWithinAnotherString();
+            text._StringConcatenationAndInterpolation();
+            text.CompareStringInAlphabetical();
+            text.StringTrim_RegularExpression_Interning();
+            text.StringBuilder();
+            text.StringFormatting_ParsingData();
+        }
+
+        [Test]
         public void SampleProgram()
         {
             CoreBase cB = new CoreBase(2,3);
             var ouptut= cB.LoginSamplePage();
             Console.WriteLine(ouptut);
+
+            TwoOrMultiDimensionArray twoDimenstion = new TwoOrMultiDimensionArray();
+            twoDimenstion.TwoDimenstional();
         }
 
         [Test]
-        public void TestInterfaces()
+        public void TestInterfacesAndAbstract()
         {
+            //Interfaces
             var interfacesClass = new ImplementationInterfaceClass();
             interfacesClass.CoreInterfaceMethodA("Raju", "Lio");
             interfacesClass.SampleDerivedMethod(5, 5);
             interfacesClass.SampleMethod();
 
-          //  interfacesClass.Parameter(par);
+          // interfacesClass.Parameter(par);
 
             ICoreInterfaceBase2 interBase2 = new ImplementationInterfaceClass();
             interBase2.CoreInterfaceMethodA(10);
             interBase2.CoreInterfaceMethodA("Raju", "Lio");
+
+            //Abstact
+            var abstractClass = new ImplementationOfAbstractClass();
+           // var abstractClasss = new ImplementationOfAbstractClass(4,5);
+            abstractClass.AbstractMethod();
+            abstractClass.MethodA();
+            abstractClass.MethodB(15);
         }
+
+        [Test]
+        public void StaticClass()
+        {
+            StaticBaseClass.CoreBase();
+            StaticBaseClass.UserValue = 10;
+        }
+
+        [Test]
+        public void Oops()
+        {
+            /*
+            var b = new InheritanceBaseClass.InheritanceDerivedClass1();
+            Console.WriteLine(b.GetValue());//10
+
+            //Inheritance
+            string whatPlayed = "";
+
+            Drum drums = new Drum();
+            PlayMusicService music1 = new PlayMusicService(new Drum());
+            whatPlayed = music1.PlayAlbum();
+            Console.WriteLine(whatPlayed);
+
+            Piano piano = new Piano();
+            PlayMusicService music2 = new PlayMusicService(new Piano());
+            whatPlayed = music2.PlayAlbum();
+            Console.WriteLine(whatPlayed);
+
+            //Polymorphism
+            var overloading = new StaticOrCompileTimeOrMethodOverloading();
+            overloading.PolyMethodOverloading();
+            overloading.PolyMethodOverloading(5, 3);
+            overloading.PolyMethodOverloading(3, 0.3, true);
+          
+            var baseKeyword = new InheritanceUsingBaseKeywordDerivedClass(true,10);
+            var baseKeyword1 = new InheritanceUsingBaseKeywordDerivedClass();
+            baseKeyword.Weight = 70;
+              
+            var overRiding = new ImplementationOfRuntimeOrMethodOverRiding1();
+            overRiding.OverRidingMethod();
+            overRiding.PolyMethodOverridding();
+            overRiding.SampleMethod();
+            */
+
+            // Abstraction
+            var abstraction = new AbsractionDerivedClass(20,10);
+            double a = abstraction.area();
+            Console.WriteLine("Area: {0}", a);
+
+            // Encapsulaton
+            var encapsulation = new EncapsulationBaseClasss();
+
+            // set accessor will invoke
+            encapsulation.Name = "Suresh Dasari";
+            // set accessor will invoke
+            encapsulation.Location = "Hyderabad";
+            // get accessor will invoke
+            Console.WriteLine("Name: " + encapsulation.Name);
+            // get accessor will invoke
+            Console.WriteLine("Location: " + encapsulation.Location);
+        }
+
         [Test]
         public void Pattern1()
         {
