@@ -325,7 +325,7 @@ namespace CSharp_Selenium_Practice
     }
     #endregion Array of Array or Jagged Array
     #endregion Arrays
-
+        
     #region Collections
     /*
      * Collection is representing the collection of objects.
@@ -966,8 +966,9 @@ namespace CSharp_Selenium_Practice
     /*
      * C# includes a value type entity same as class called "structure".
      * Structs are mainly useful to hold small data values and it's sealed(can't inherit)
-     * A structure can be defined using the struct operator.
-     * It can contain parameterized constructor, static constructor, constants, fields, methods, properties, indexers, operators, events and nested types.
+     * A structure can be defined using the struct operator.structures cannot have default constructor
+     * A structure can implement one or more interfaces.Structure members cannot be specified as abstract, virtual, or protected.
+     * It can contain parameterized constructor, static constructor, constants, fields, methods, properties, indexers, operators, events and nested types,but not destructor.
      * A structure is declared using struct keyword with public or internal modifier. 
      * The default modifer is internal for the struct and its members. However, you can use private or protected modifier when declared inside a class.
      * must assign values to all the members of a struct in parameterized constructor, otherwise it will give compile time error if any member remains unassigned.
@@ -991,16 +992,389 @@ namespace CSharp_Selenium_Practice
             FirstName = fname;
             LastName = lname;
         }
-
-        StructClass emp = new StructClass();
-        Console.Write(emp.EmpId); // prints 0  
     }
     //The default modifer is internal for the struct and its members. However, you can use private or protected modifier when declared inside a class.
-    public class StructClass:structure
+    public class StructClass
     {
-        structure emp = new structure();
-        emp.
+        structure emp;
+        structure emp1 = new structure();
+        //emp1.structure(12,"s","R");
     }
     #endregion Struct
-}
 
+    #region Partial Class
+    /*
+     * Each class in C# resides in a separate physical file with a .cs extension.Nested partial types are allowed.
+     * C# provides the ability to have a single class implementation in multiple .cs files using the partial modifier keyword.
+     * The partial modifier can be applied to a class, method, interface or structure.
+     * All the partial class definitions must be in the same assembly,same access modifier and namespace
+     * If any part is declared abstract, sealed or base type then the whole class is declared of the same type.
+     * Different parts can have different base types and so the final class will inherit all the base types.
+     * Advantage:
+     * Multiple developers can work simultaneously with a single class in separate files.
+       When working with automatically generated source, code can be added to the class without having to recreate the source file.
+       For example, Visual Studio separates HTML code for the UI and server side code into two separate files: .aspx and .cs files.
+     */
+
+    //Example: PartialClassFile1.cs
+    public partial class MyPartialClass
+    {
+        public MyPartialClass()
+        {
+            Console.WriteLine("Partial Class constructor");
+        }
+
+        public void Method1(int val)
+        {
+            Console.WriteLine(val);
+        }
+    }
+
+    //Example: PartialClassFile2.cs
+    public partial class MyPartialClass
+    {
+        public void Method2(int val)
+        {
+            Console.WriteLine(val);
+        }
+    }
+    //MyPartialClass in PartialClassFile1.cs defines the constructor and one public method, Method1,
+    //whereas PartialClassFile2 has only one public method, Method2. The compiler combines these two partial classes into one class as below:
+    /*
+    public partial class MyPartialClass
+    {
+        public MyPartialClass()
+        {
+            Console.WriteLine("Partial Class constructor");
+        }
+
+        public void Method1(int val)
+        {
+            Console.WriteLine(val);
+        }
+        public void Method2(int val)
+        {
+            Console.WriteLine(val);
+        }
+    }
+    */
+
+    #region Partial class methods
+    /*
+     * A partial method may or may not have an implementation.
+     * If the partial method doesn't have an implementation in any part then the compiler will not generate that method in the final class
+     */
+    public partial class MyPartialClass2
+    {
+        partial void PartialMethod(int val);
+
+        public MyPartialClass2()
+        {
+
+        }
+        public void Method2(int val)
+        {
+            Console.WriteLine(val);
+        }
+    }
+    public partial class MyPartialClass2
+    {
+        public void Method1(int val)
+        {
+            Console.WriteLine(val);
+        }
+
+        partial void PartialMethod(int val)
+        {
+            Console.WriteLine(val);
+        }
+    }
+    /*
+     * AFter compliation of the Partial class methods
+    public partial class MyPartialClass2
+    {
+        public MyPartialClass2()
+        {
+
+        }
+        public void Method1(int val)
+        {
+            Console.WriteLine(val);
+        }
+        public void Method2(int val)
+        {
+            Console.WriteLine(val);
+        }
+        partial void PartialMethod(int val)
+        {
+            Console.WriteLine(val);
+        }
+    }
+    */
+    #endregion Partial class methods
+    #endregion
+
+    #region Enumerators
+    /*
+     *In C#, enum is a value type data type. The enum is used to declare a list of named integer constants 
+     * It can be defined using the enum keyword directly inside a namespace, class, or structure. 
+     * The enum is used to give a name to each constant so that the constant integer can be referred using its name.
+     */
+    public class GlobalEnumarator
+    {
+        public enum WeekDays
+        {
+            //By default constants integer value is starts from zero
+            Monday = 0,
+            Tuesday = 1,
+            Wednesday = 2,
+            Thursday = 3,
+            Friday = 4,
+            Saturday , // Need not to assign the value, it will take automatically based on order
+            Sunday = 6
+        }
+
+        #region String value implementation for the Global Enums
+        public class StringValue : System.Attribute
+        {
+            public string Value { get; private set; }
+
+            public StringValue(string value)
+            {
+                Value = value;
+            }
+        }
+        #endregion
+        public enum EnumAsStringProperty
+        {
+            [StringValue("RajuLio")]
+            UserName,
+        }
+        
+        public void EnumImplementation()
+        {
+            Console.WriteLine(WeekDays.Sunday);// 6
+            Console.WriteLine(WeekDays.Saturday);//5
+            Console.WriteLine(EnumAsStringProperty.UserName); // RajuLio
+            Console.WriteLine(Enum.GetName(typeof(WeekDays), 4));// Friday
+           // Console.WriteLine(Enum.GetValues(typeof(WeekDays),1));
+        }
+    }
+    #endregion Enumerator
+
+    #region Indexer
+    /*
+     * C# indexers are usually known as smart arrays, created with 'this' keyword.Parameterized property are called indexer
+     * Indexer is a class property that allows you to access a member variable of a class or struct using the features of an array.
+     * Indexers are accessed using indexes where as properties are accessed by names.
+     * Indexers are created using this keyword. Indexers in C# are applicable on both classes and structs. 
+     * Indexers are implemented through get and set accessors for the [ ] operator.
+     * ref and out parameter modifiers are not permitted in indexer.
+     * The formal parameter list of an indexer corresponds to that of a method and at least one parameter should be specified.
+     * Indexer is an instance member so can't be static but property can be static,can be overloaded.
+     * 
+     */
+    //Example 1:
+    class SampleCollection<T>
+    {
+        // Declare an array to store the data elements.
+        private T[] arr = new T[100];
+
+        // Define the indexer to allow client code to use [] notation.
+        public T this[int i]
+        {
+            get { return arr[i]; }
+            set { arr[i] = value; }
+        }
+    }
+    class IndexerImplementation
+    {
+        public  void Index()
+        {
+            var stringCollection = new SampleCollection<string>();
+            stringCollection[0] = "Hello, World";
+            Console.WriteLine(stringCollection[0]);
+        }
+    }
+
+    //Example 2
+    public class Indexer
+    {
+        public string Name {get;set;}
+        private float[] temps = new float[5] { 56.2F, 56.7F, 56.5F, 56.9F,56.7F};
+        private Indexer[] _userName;
+
+        //Example 1
+        //public int this[int index]
+        //{
+        //    get
+        //    {
+        //        return _userName[index];
+        //    }
+        //    set
+        //    {
+        //        _userName[index] = value;
+        //    }
+        //}
+
+        private string[] names = new string[10];
+        public string this[int i]
+        {
+            get
+            {
+                return names[i];
+            }
+            set
+            {
+                names[i] = value;
+            }
+        }
+        public void IndexImplementation()
+        {
+            Indexer Team = new Indexer();
+            Team[0] = "Rocky";
+            Team[1] = "Teena";
+            Team[2] = "Ana";
+            Team[3] = "Victoria";
+            Team[4] = "Yani";
+            Team[5] = "Mary";
+            Team[6] = "Gomes";
+            Team[7] = "Arnold";
+            Team[8] = "Mike";
+            Team[9] = "Peter";
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine(Team[i]);
+            }
+            Console.ReadKey();
+        }
+    }
+    #endregion Indexer
+
+    #region Delegates
+    /*
+     * A delegate is like a pointer to a function.
+     * It is a reference type data type and it holds the reference of a method. All the delegates are implicitly derived from System.Delegate class.
+     * A method that is going to assign to delegate must have same signature as delegate
+     * Delegates can be invoke like a normal function or Invoke() method.
+     * Multiple methods can be assigned to the delegate using "+" operator. It is called multicast delegate.
+     */
+    public class DelegatesEx
+    {
+        //This delegate can be used to point to methods
+        public delegate void PrintMethods();//Parameter less
+        public delegate void GetMethods(int value);//Parameter
+        public void MethodCalling()
+        {
+            //TYPE : 1
+            PrintMethods getMethods = new PrintMethods(Method1);
+            PrintMethods getMethod2 = new PrintMethods(Method2);
+            
+            //Field initialize can't reference the Non static field, method or property
+            //PrintMethods getMethods = new PrintMethods(Method4); -- error
+
+            //TYPE : 2
+            PrintMethods printFirstMethod = Method1;
+            PrintMethods printSecondMethod = Method2;
+           // PrintMethods printThirdMethod = Method3; Non-static mehtod can't initialize
+            printFirstMethod();
+            printFirstMethod();
+            printSecondMethod();
+            //printThirdMethod(10); Can't pass paramter, since it is not a parmeter delegate
+            getMethod2();
+
+            GetMethods getMethod = Method3;
+            getMethod(10);
+
+        }
+
+        //The delegate can be invoked like a method because it is a reference to a method
+        public void InvokingDelegate()
+        {
+          //The delegate can be invoked by two ways:using() operator or using the Invoke() method of delegate
+            PrintMethods printDelegate = Method1;
+            printDelegate.Invoke();//Static Method 1
+            printDelegate();//Static Method 1
+        }
+
+        //GetMethods(Methods1,100), To call below methods
+        public void PassDelegateAsParamter(GetMethods delegateFunc, int numToPrint)
+        {
+            delegateFunc(numToPrint);
+        }
+
+        public void MulticastDelegate()
+        {
+            PrintMethods print = Method1;
+            print += Method2;
+        }
+        public static void Method1()
+        {
+            Console.WriteLine("Static Method 1");
+        }
+        public static void Method2()
+        {
+            Console.WriteLine("Static Method 2");
+        }
+        public static void Method3(int num)
+        {
+            Console.WriteLine("Static Method with Paramater");
+        }
+        public void Method4()
+        {
+
+        }
+    }
+    #endregion Delegates
+
+    #region Events
+    /*
+     * An event has a publisher, subscriber, notification and a handler. Generally, UI controls use events extensively. 
+     * An event is nothing but an encapsulated delegate. As we have learned in the previous section, a delegate is a reference type data type
+     * Use event keyword with delegate type to declare an event
+     * 
+     * 
+     */
+    public class Events
+    {
+        // declare delegate
+        //This delegate can be used to point to methods
+        public delegate void Delegates(object sender, int arg);
+
+        //declare event of type delegate
+        public event Delegates DelegateEventMethod;
+
+        //Invoking an Event
+
+
+
+
+
+
+        public void EventMethod(int arg)
+        {
+            if(DelegateEventMethod != null)
+            {
+ 
+            }
+        }
+       
+        public event EventHandler DelegateEventMethods
+        {
+            add
+            {
+                Console.WriteLine("Add operation");
+            }
+            remove
+            {
+                Console.WriteLine("Remove operation");
+            }
+        }
+
+        private class DelegatesCalling
+        {
+
+        }
+    }
+    #endregion Events
+}

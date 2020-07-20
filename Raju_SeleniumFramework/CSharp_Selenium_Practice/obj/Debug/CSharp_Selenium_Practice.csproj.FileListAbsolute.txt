@@ -34,7 +34,6 @@ C:\Projects\CSharp_Selenium_Practice\CSharp_Selenium_Practice\obj\Debug\CSharp_S
 C:\Projects\CSharp_Selenium_Practice\CSharp_Selenium_Practice\obj\Debug\CSharp_Selenium_Practice.csproj.CopyComplete
 C:\Projects\CSharp_Selenium_Practice\CSharp_Selenium_Practice\obj\Debug\CSharp_Selenium_Practice.dll
 C:\Projects\CSharp_Selenium_Practice\CSharp_Selenium_Practice\obj\Debug\CSharp_Selenium_Practice.pdb
-C:\Projects\Automation_Practice\Raju_SeleniumFramework\CSharp_Selenium_Practice\obj\Debug\CSharp_Selenium_Practice.csproj.CoreCompileInputs.cache
 C:\Projects\Automation_Practice\Raju_SeleniumFramework\CSharp_Selenium_Practice\bin\Debug\NUnit3.TestAdapter.dll
 C:\Projects\Automation_Practice\Raju_SeleniumFramework\CSharp_Selenium_Practice\bin\Debug\NUnit3.TestAdapter.pdb
 C:\Projects\Automation_Practice\Raju_SeleniumFramework\CSharp_Selenium_Practice\bin\Debug\nunit.engine.dll
@@ -48,6 +47,7 @@ C:\Projects\Automation_Practice\Raju_SeleniumFramework\CSharp_Selenium_Practice\
 C:\Projects\Automation_Practice\Raju_SeleniumFramework\CSharp_Selenium_Practice\bin\Debug\nunit.framework.xml
 C:\Projects\Automation_Practice\Raju_SeleniumFramework\CSharp_Selenium_Practice\bin\Debug\WebDriver.xml
 C:\Projects\Automation_Practice\Raju_SeleniumFramework\CSharp_Selenium_Practice\bin\Debug\WebDriver.Support.xml
+C:\Projects\Automation_Practice\Raju_SeleniumFramework\CSharp_Selenium_Practice\obj\Debug\CSharp_Selenium_Practice.csproj.CoreCompileInputs.cache
 C:\Projects\Automation_Practice\Raju_SeleniumFramework\CSharp_Selenium_Practice\obj\Debug\CSharp_Selenium_Practice.csproj.CopyComplete
 C:\Projects\Automation_Practice\Raju_SeleniumFramework\CSharp_Selenium_Practice\obj\Debug\CSharp_Selenium_Practice.dll
 C:\Projects\Automation_Practice\Raju_SeleniumFramework\CSharp_Selenium_Practice\obj\Debug\CSharp_Selenium_Practice.pdb

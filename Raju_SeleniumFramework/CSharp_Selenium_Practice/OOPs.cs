@@ -130,6 +130,10 @@ namespace CSharp_Selenium_Practice
         public virtual void AbstractMethod()
         {
             Console.WriteLine("This is the Abstract Base Method");
+        } 
+        public void ConcreteMethod()
+        {
+            Console.WriteLine("This is the Concrete method");
         }
 
         //Constructor
@@ -170,8 +174,12 @@ namespace CSharp_Selenium_Practice
         public override void MethodA()
         {
             int a = 5, b = 10;
-
             var rslt = a + b;
+        }
+
+        public void DerivedConcMethod()
+        {
+            ConcreteMethod();// This is the concrete method, we need not to use override keyword to access it.
         }
 
         public ImplementationOfAbstractClass()
@@ -206,7 +214,7 @@ namespace CSharp_Selenium_Practice
      * When a class or struct is created, its constructor is called.It can be used to set initial values for fields
      * If a class does not have a constructor, a parameterless constructor is automatically generated and default values are used to initialize the object fields. For example, an int is initialized to 0
      * It cannot have a return type (like void or int).Within a class, you can create only one static constructor
-     * A static constructor cannot be a parameterized constructor, A class can have any number of constructors
+     * A static constructor cannot be a parameterized constructor, A class can have any number of constructors with diff parameters.                                                                                                                                                                                                                       
      * A static constructor is used to initialize static fields of the class and to write the code that needs to be executed only once.
      */
     public class Constructors
@@ -222,6 +230,11 @@ namespace CSharp_Selenium_Practice
             i = 20;
             Console.WriteLine(i);
         }
+
+        //public Constructors()
+        //{
+        // We can't have the same paramter type for constructor                                                      
+        //}
 
         //2.Parametrized Constructor
         public Constructors(int i, double j)
@@ -286,13 +299,32 @@ namespace CSharp_Selenium_Practice
         //{
         //    return this.value; - Inaccessible due to its protection(Access modifier : private)
         //}
+
+        private int i = 0;
+        public int j = 1;
     }
+
+    public class InheritanceDerivedClass3 : InheritanceDerivedClass2
+    {
+        public void method1()
+        {
+            Console.WriteLine(j);
+            //Console.WriteLine(i); We can't access the private members of parent class
+        }
+    }
+
     #endregion
 
     #region 2. Abstract Class Inheritance
     public abstract class A
     {
         public abstract void Method1();
+
+      //  public virtual abstract void Method1(); abstract method can't be marked as VIRTUAL
+        public void ByDefaultAbstractMethodsAreVirtual()
+        {
+            //we need not 
+        }
     }
 
     public class B : A 
@@ -321,10 +353,15 @@ namespace CSharp_Selenium_Practice
     }
     public class Piano : Music
     {
+        public void CallAlreadyOverriddenMethod()
+        {
+            play();
+        }
         public override string play()
         {
             return "Play Piano";
         }
+
         public virtual string sing()
         {
             return "sing song";

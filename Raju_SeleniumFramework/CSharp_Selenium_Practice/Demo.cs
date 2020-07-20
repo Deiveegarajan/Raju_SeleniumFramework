@@ -6,22 +6,26 @@ namespace CSharp_Selenium_Practice
 {
     public class Program : CoreBase
     {
+
         [Test]
         public void LogicalProgramming()
         {
 
-
             var basicProgram = new LogicalProgramsDerivation();
-            basicProgram.ArrayReverse();
+            basicProgram.PrintOneValueFromLine(15);
+            //  basicProgram.ArrayReverse();
+            //  basicProgram.ArrayElementsOfTypeInteger();
+            //  basicProgram.DiagonalMatrix();
+            //basicProgram.ValidateUserInputString("deiveegaraja");
 
-            var stacks = new StacksNonGeneric();
-            stacks.Stack();
+            //var stacks = new StacksNonGeneric();
+            //stacks.Stack();
 
-            var queue = new QueueNonGeneric();
-            queue.Queue();
+            //var queue = new QueueNonGeneric();
+            //queue.Queue();
 
-            var arrayList = new ArrayListNonGeneric();
-            arrayList.ArrayList();
+            //var arrayList = new ArrayListNonGeneric();
+            //arrayList.ArrayList();
         }
 
         [Test]
@@ -74,6 +78,13 @@ namespace CSharp_Selenium_Practice
         }
 
         [Test]
+        public void EventsAndDelegates()
+        {
+            DelegatesEx del = new DelegatesEx();
+            del.InvokingDelegate();
+        }
+
+        [Test]
         public void StaticClass()
         {
             StaticBaseClass.CoreBase();
@@ -83,7 +94,7 @@ namespace CSharp_Selenium_Practice
         [Test]
         public void Oops()
         {
-            /*
+            
             var b = new InheritanceBaseClass.InheritanceDerivedClass1();
             Console.WriteLine(b.GetValue());//10
 
@@ -114,7 +125,7 @@ namespace CSharp_Selenium_Practice
             overRiding.OverRidingMethod();
             overRiding.PolyMethodOverridding();
             overRiding.SampleMethod();
-            */
+            
 
             // Abstraction
             var abstraction = new AbsractionDerivedClass(20,10);
