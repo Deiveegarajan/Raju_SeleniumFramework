@@ -1,0 +1,817 @@
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\Elements.Core.dll.config
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\Elements.Core.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\Elements.Core.pdb
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\netstandard.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.AppContext.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Collections.Concurrent.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Collections.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Collections.NonGeneric.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Collections.Specialized.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.ComponentModel.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.ComponentModel.EventBasedAsync.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.ComponentModel.Primitives.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.ComponentModel.TypeConverter.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Console.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Data.Common.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.Contracts.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.Debug.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.FileVersionInfo.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.Process.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.StackTrace.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.Tools.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.TraceSource.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.Tracing.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Drawing.Primitives.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Dynamic.Runtime.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Globalization.Calendars.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Globalization.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Globalization.Extensions.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.IO.Compression.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.IO.Compression.ZipFile.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.IO.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.IO.FileSystem.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.IO.FileSystem.DriveInfo.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.IO.FileSystem.Watcher.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.IO.IsolatedStorage.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.IO.MemoryMappedFiles.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.IO.Pipes.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.IO.UnmanagedMemoryStream.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Linq.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Linq.Expressions.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Linq.Parallel.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Linq.Queryable.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Net.Http.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Net.NameResolution.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Net.NetworkInformation.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Net.Ping.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Net.Primitives.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Net.Requests.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Net.Security.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Net.Sockets.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Net.WebHeaderCollection.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Net.WebSockets.Client.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Net.WebSockets.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.ObjectModel.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Reflection.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Reflection.Extensions.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Reflection.Primitives.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Resources.Reader.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Resources.ResourceManager.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Resources.Writer.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Extensions.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Handles.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.InteropServices.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Numerics.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Serialization.Formatters.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Serialization.Json.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Serialization.Primitives.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Serialization.Xml.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Security.Claims.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Security.Cryptography.Csp.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Security.Principal.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Security.SecureString.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Text.Encoding.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Text.Encoding.Extensions.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Text.RegularExpressions.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Threading.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Overlapped.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Tasks.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Tasks.Parallel.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Thread.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Threading.ThreadPool.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Timer.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Xml.ReaderWriter.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Xml.XDocument.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Xml.XmlDocument.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Xml.XmlSerializer.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Xml.XPath.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Xml.XPath.XDocument.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\dnkUtils.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\log4net.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\Microsoft.Expression.Encoder.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\Newtonsoft.Json.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\nunit.framework.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\Selenium.WebDriverBackedSelenium.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Reactive.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Reactive.Linq.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Security.AccessControl.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Security.Permissions.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.ValueTuple.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\WebDriver.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\WebDriver.Support.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\log4net.xml
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\Newtonsoft.Json.pdb
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\Newtonsoft.Json.xml
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\nunit.framework.pdb
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\nunit.framework.xml
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\Selenium.WebDriverBackedSelenium.xml
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Reactive.xml
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Reactive.Linq.xml
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\System.ValueTuple.xml
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\WebDriver.xml
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\bin\Release\WebDriver.Support.xml
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\obj\Release\Elements.Core.csproj.CoreCompileInputs.cache
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\obj\Release\Elements.Core.csproj.CopyComplete
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\obj\Release\Elements.Core.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Core\obj\Release\Elements.Core.pdb
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\Elements.Core.dll.config
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\Elements.Core.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\Elements.Core.pdb
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\netstandard.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.AppContext.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Collections.Concurrent.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Collections.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Collections.NonGeneric.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Collections.Specialized.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.ComponentModel.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.ComponentModel.EventBasedAsync.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.ComponentModel.Primitives.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.ComponentModel.TypeConverter.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Console.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Data.Common.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.Contracts.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.Debug.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.FileVersionInfo.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.Process.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.StackTrace.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.Tools.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.TraceSource.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.Tracing.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Drawing.Primitives.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Dynamic.Runtime.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Globalization.Calendars.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Globalization.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Globalization.Extensions.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.IO.Compression.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.IO.Compression.ZipFile.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.IO.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.IO.FileSystem.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.IO.FileSystem.DriveInfo.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.IO.FileSystem.Watcher.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.IO.IsolatedStorage.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.IO.MemoryMappedFiles.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.IO.Pipes.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.IO.UnmanagedMemoryStream.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Linq.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Linq.Expressions.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Linq.Parallel.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Linq.Queryable.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Net.Http.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Net.NameResolution.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Net.NetworkInformation.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Net.Ping.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Net.Primitives.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Net.Requests.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Net.Security.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Net.Sockets.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Net.WebHeaderCollection.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Net.WebSockets.Client.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Net.WebSockets.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.ObjectModel.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Reflection.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Reflection.Extensions.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Reflection.Primitives.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Resources.Reader.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Resources.ResourceManager.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Resources.Writer.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Extensions.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Handles.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.InteropServices.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Numerics.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Serialization.Formatters.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Serialization.Json.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Serialization.Primitives.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Serialization.Xml.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Security.Claims.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Security.Cryptography.Csp.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Security.Principal.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Security.SecureString.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Text.Encoding.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Text.Encoding.Extensions.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Text.RegularExpressions.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Threading.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Overlapped.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Tasks.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Tasks.Parallel.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Thread.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Threading.ThreadPool.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Timer.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Xml.ReaderWriter.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Xml.XDocument.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Xml.XmlDocument.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Xml.XmlSerializer.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Xml.XPath.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Xml.XPath.XDocument.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\dnkUtils.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\log4net.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\Microsoft.Expression.Encoder.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\Newtonsoft.Json.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\nunit.framework.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\Selenium.WebDriverBackedSelenium.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Reactive.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Reactive.Linq.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Security.AccessControl.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Security.Permissions.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.ValueTuple.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\WebDriver.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\WebDriver.Support.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\log4net.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\Newtonsoft.Json.pdb
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\Newtonsoft.Json.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\nunit.framework.pdb
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\nunit.framework.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\Selenium.WebDriverBackedSelenium.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Reactive.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Reactive.Linq.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\System.ValueTuple.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\WebDriver.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\bin\Release\WebDriver.Support.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\obj\Release\Elements.Core.csprojAssemblyReference.cache
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\obj\Release\Elements.Core.csproj.CoreCompileInputs.cache
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\obj\Release\Elements.Core.csproj.CopyComplete
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\obj\Release\Elements.Core.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Core\obj\Release\Elements.Core.pdb
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\Elements.Core.dll.config
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\Elements.Core.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\Elements.Core.pdb
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\netstandard.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.AppContext.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Collections.Concurrent.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Collections.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Collections.NonGeneric.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Collections.Specialized.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.ComponentModel.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.ComponentModel.EventBasedAsync.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.ComponentModel.Primitives.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.ComponentModel.TypeConverter.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Console.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Data.Common.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.Contracts.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.Debug.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.FileVersionInfo.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.Process.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.StackTrace.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.Tools.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.TraceSource.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.Tracing.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Drawing.Primitives.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Dynamic.Runtime.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Globalization.Calendars.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Globalization.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Globalization.Extensions.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.IO.Compression.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.IO.Compression.ZipFile.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.IO.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.IO.FileSystem.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.IO.FileSystem.DriveInfo.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.IO.FileSystem.Watcher.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.IO.IsolatedStorage.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.IO.MemoryMappedFiles.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.IO.Pipes.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.IO.UnmanagedMemoryStream.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Linq.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Linq.Expressions.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Linq.Parallel.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Linq.Queryable.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Net.Http.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Net.NameResolution.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Net.NetworkInformation.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Net.Ping.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Net.Primitives.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Net.Requests.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Net.Security.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Net.Sockets.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Net.WebHeaderCollection.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Net.WebSockets.Client.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Net.WebSockets.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.ObjectModel.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Reflection.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Reflection.Extensions.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Reflection.Primitives.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Resources.Reader.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Resources.ResourceManager.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Resources.Writer.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Extensions.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Handles.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.InteropServices.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Numerics.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Serialization.Formatters.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Serialization.Json.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Serialization.Primitives.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Serialization.Xml.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Security.Claims.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Security.Cryptography.Csp.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Security.Principal.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Security.SecureString.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Text.Encoding.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Text.Encoding.Extensions.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Text.RegularExpressions.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Threading.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Overlapped.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Tasks.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Tasks.Parallel.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Thread.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Threading.ThreadPool.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Timer.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Xml.ReaderWriter.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Xml.XDocument.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Xml.XmlDocument.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Xml.XmlSerializer.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Xml.XPath.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Xml.XPath.XDocument.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\dnkUtils.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\log4net.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\Microsoft.Expression.Encoder.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\Newtonsoft.Json.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\nunit.framework.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\Selenium.WebDriverBackedSelenium.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\SeleniumExtras.WaitHelpers.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Reactive.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Reactive.Linq.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Security.AccessControl.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Security.Permissions.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.ValueTuple.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\WebDriver.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\WebDriver.Support.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\log4net.xml
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\Newtonsoft.Json.pdb
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\Newtonsoft.Json.xml
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\nunit.framework.pdb
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\nunit.framework.xml
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\Selenium.WebDriverBackedSelenium.xml
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Reactive.xml
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Reactive.Linq.xml
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\System.ValueTuple.xml
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\WebDriver.xml
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\bin\Release\WebDriver.Support.xml
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\obj\Release\Elements.Core.csprojAssemblyReference.cache
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\obj\Release\Elements.Core.csproj.CoreCompileInputs.cache
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\obj\Release\Elements.Core.csproj.CopyComplete
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\obj\Release\Elements.Core.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Core\obj\Release\Elements.Core.pdb
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\AutoItX3.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\AutoItX3_x64.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\Elements.Core.dll.config
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\Elements.Core.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\Elements.Core.pdb
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\netstandard.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.AppContext.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Collections.Concurrent.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Collections.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Collections.NonGeneric.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Collections.Specialized.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.ComponentModel.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.ComponentModel.EventBasedAsync.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.ComponentModel.Primitives.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.ComponentModel.TypeConverter.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Console.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Data.Common.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.Contracts.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.Debug.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.FileVersionInfo.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.Process.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.StackTrace.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.Tools.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.TraceSource.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.Tracing.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Drawing.Primitives.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Dynamic.Runtime.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Globalization.Calendars.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Globalization.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Globalization.Extensions.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.IO.Compression.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.IO.Compression.ZipFile.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.IO.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.IO.FileSystem.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.IO.FileSystem.DriveInfo.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.IO.FileSystem.Watcher.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.IO.IsolatedStorage.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.IO.MemoryMappedFiles.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.IO.Pipes.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.IO.UnmanagedMemoryStream.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Linq.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Linq.Expressions.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Linq.Parallel.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Linq.Queryable.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Net.Http.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Net.NameResolution.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Net.NetworkInformation.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Net.Ping.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Net.Primitives.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Net.Requests.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Net.Security.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Net.Sockets.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Net.WebHeaderCollection.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Net.WebSockets.Client.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Net.WebSockets.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.ObjectModel.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Reflection.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Reflection.Extensions.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Reflection.Primitives.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Resources.Reader.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Resources.ResourceManager.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Resources.Writer.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Extensions.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Handles.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.InteropServices.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Numerics.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Serialization.Formatters.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Serialization.Json.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Serialization.Primitives.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Serialization.Xml.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Security.Claims.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Security.Cryptography.Csp.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Security.Principal.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Security.SecureString.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Text.Encoding.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Text.Encoding.Extensions.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Text.RegularExpressions.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Threading.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Overlapped.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Tasks.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Tasks.Parallel.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Thread.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Threading.ThreadPool.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Timer.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Xml.ReaderWriter.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Xml.XDocument.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Xml.XmlDocument.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Xml.XmlSerializer.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Xml.XPath.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Xml.XPath.XDocument.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\AutoItX3.Assembly.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\dnkUtils.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\log4net.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\Microsoft.Expression.Encoder.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\Newtonsoft.Json.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\nunit.framework.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\Selenium.WebDriverBackedSelenium.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\SeleniumExtras.WaitHelpers.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Reactive.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Reactive.Linq.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Security.AccessControl.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Security.Permissions.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.ValueTuple.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\WebDriver.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\WebDriver.Support.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\AutoItX3.Assembly.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\log4net.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\Newtonsoft.Json.pdb
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\Newtonsoft.Json.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\nunit.framework.pdb
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\nunit.framework.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\Selenium.WebDriverBackedSelenium.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Reactive.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Reactive.Linq.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\System.ValueTuple.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\WebDriver.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\bin\Release\WebDriver.Support.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\obj\Release\Interop.AutoItX3Lib.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\obj\Release\Elements.Core.csproj.ResolveComReference.cache
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\obj\Release\Elements.Core.csproj.CoreCompileInputs.cache
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\obj\Release\Elements.Core.csproj.CopyComplete
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\obj\Release\Elements.Core.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\obj\Release\Elements.Core.pdb
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Core\obj\Release\Elements.Core.csprojAssemblyReference.cache
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\AutoItX3.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\AutoItX3_x64.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\Elements.Core.dll.config
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\Elements.Core.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\Elements.Core.pdb
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\netstandard.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.AppContext.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Collections.Concurrent.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Collections.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Collections.NonGeneric.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Collections.Specialized.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.ComponentModel.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.ComponentModel.EventBasedAsync.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.ComponentModel.Primitives.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.ComponentModel.TypeConverter.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Console.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Data.Common.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.Contracts.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.Debug.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.FileVersionInfo.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.Process.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.StackTrace.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.Tools.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.TraceSource.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.Tracing.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Drawing.Primitives.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Dynamic.Runtime.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Globalization.Calendars.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Globalization.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Globalization.Extensions.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.IO.Compression.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.IO.Compression.ZipFile.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.IO.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.IO.FileSystem.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.IO.FileSystem.DriveInfo.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.IO.FileSystem.Watcher.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.IO.IsolatedStorage.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.IO.MemoryMappedFiles.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.IO.Pipes.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.IO.UnmanagedMemoryStream.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Linq.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Linq.Expressions.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Linq.Parallel.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Linq.Queryable.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Net.Http.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Net.NameResolution.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Net.NetworkInformation.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Net.Ping.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Net.Primitives.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Net.Requests.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Net.Security.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Net.Sockets.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Net.WebHeaderCollection.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Net.WebSockets.Client.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Net.WebSockets.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.ObjectModel.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Reflection.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Reflection.Extensions.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Reflection.Primitives.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Resources.Reader.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Resources.ResourceManager.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Resources.Writer.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Extensions.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Handles.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.InteropServices.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Numerics.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Serialization.Formatters.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Serialization.Json.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Serialization.Primitives.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Serialization.Xml.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Security.Claims.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Security.Cryptography.Csp.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Security.Principal.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Security.SecureString.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Text.Encoding.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Text.Encoding.Extensions.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Text.RegularExpressions.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Threading.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Overlapped.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Tasks.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Tasks.Parallel.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Thread.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Threading.ThreadPool.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Timer.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Xml.ReaderWriter.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Xml.XDocument.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Xml.XmlDocument.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Xml.XmlSerializer.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Xml.XPath.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Xml.XPath.XDocument.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\AutoItX3.Assembly.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\dnkUtils.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\log4net.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\Microsoft.Expression.Encoder.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\Newtonsoft.Json.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\nunit.framework.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\Selenium.WebDriverBackedSelenium.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\SeleniumExtras.WaitHelpers.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Reactive.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Reactive.Linq.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Security.AccessControl.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Security.Permissions.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Security.Principal.Windows.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.ValueTuple.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\WebDriver.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\WebDriver.Support.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\AutoItX3.Assembly.xml
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\log4net.xml
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\Newtonsoft.Json.pdb
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\Newtonsoft.Json.xml
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\nunit.framework.pdb
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\nunit.framework.xml
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\Selenium.WebDriverBackedSelenium.xml
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Reactive.xml
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Reactive.Linq.xml
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\System.ValueTuple.xml
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\WebDriver.xml
+C:\Selenium POC\Elements.Selenium\Elements.Core\bin\Release\WebDriver.Support.xml
+C:\Selenium POC\Elements.Selenium\Elements.Core\obj\Release\Elements.Core.csprojAssemblyReference.cache
+C:\Selenium POC\Elements.Selenium\Elements.Core\obj\Release\Elements.Core.csproj.ResolveComReference.cache
+C:\Selenium POC\Elements.Selenium\Elements.Core\obj\Release\Elements.Core.csproj.CoreCompileInputs.cache
+C:\Selenium POC\Elements.Selenium\Elements.Core\obj\Release\Elements.Core.csproj.CopyComplete
+C:\Selenium POC\Elements.Selenium\Elements.Core\obj\Release\Elements.Core.dll
+C:\Selenium POC\Elements.Selenium\Elements.Core\obj\Release\Elements.Core.pdb
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\AutoItX3.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\AutoItX3_x64.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\Elements.Core.dll.config
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\Elements.Core.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\Elements.Core.pdb
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\netstandard.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.AppContext.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Collections.Concurrent.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Collections.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Collections.NonGeneric.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Collections.Specialized.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.ComponentModel.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.ComponentModel.EventBasedAsync.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.ComponentModel.Primitives.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.ComponentModel.TypeConverter.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Console.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Data.Common.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.Contracts.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.Debug.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.FileVersionInfo.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.Process.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.StackTrace.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.Tools.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.TraceSource.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Diagnostics.Tracing.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Drawing.Primitives.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Dynamic.Runtime.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Globalization.Calendars.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Globalization.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Globalization.Extensions.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.IO.Compression.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.IO.Compression.ZipFile.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.IO.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.IO.FileSystem.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.IO.FileSystem.DriveInfo.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.IO.FileSystem.Watcher.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.IO.IsolatedStorage.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.IO.MemoryMappedFiles.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.IO.Pipes.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.IO.UnmanagedMemoryStream.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Linq.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Linq.Expressions.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Linq.Parallel.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Linq.Queryable.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Net.Http.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Net.NameResolution.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Net.NetworkInformation.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Net.Ping.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Net.Primitives.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Net.Requests.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Net.Security.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Net.Sockets.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Net.WebHeaderCollection.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Net.WebSockets.Client.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Net.WebSockets.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.ObjectModel.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Reflection.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Reflection.Extensions.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Reflection.Primitives.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Resources.Reader.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Resources.ResourceManager.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Resources.Writer.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Extensions.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Handles.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.InteropServices.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Numerics.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Serialization.Formatters.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Serialization.Json.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Serialization.Primitives.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.Serialization.Xml.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Security.Claims.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Security.Cryptography.Csp.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Security.Principal.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Security.SecureString.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Text.Encoding.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Text.Encoding.Extensions.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Text.RegularExpressions.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Threading.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Overlapped.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Tasks.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Tasks.Parallel.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Thread.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Threading.ThreadPool.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Timer.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Xml.ReaderWriter.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Xml.XDocument.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Xml.XmlDocument.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Xml.XmlSerializer.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Xml.XPath.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Xml.XPath.XDocument.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\AutoItX3.Assembly.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\dnkUtils.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\log4net.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\Microsoft.Expression.Encoder.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\Newtonsoft.Json.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\nunit.framework.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\Selenium.WebDriverBackedSelenium.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\SeleniumExtras.WaitHelpers.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Reactive.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Reactive.Linq.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Security.AccessControl.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Security.Permissions.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Security.Principal.Windows.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.ValueTuple.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\WebDriver.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\WebDriver.Support.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\AutoItX3.Assembly.xml
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\log4net.xml
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\Newtonsoft.Json.pdb
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\Newtonsoft.Json.xml
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\nunit.framework.pdb
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\nunit.framework.xml
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\Selenium.WebDriverBackedSelenium.xml
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Reactive.xml
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Reactive.Linq.xml
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\System.ValueTuple.xml
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\WebDriver.xml
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\bin\Release\WebDriver.Support.xml
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\obj\Release\Elements.Core.csproj.ResolveComReference.cache
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\obj\Release\Elements.Core.csproj.CoreCompileInputs.cache
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\obj\Release\Elements.Core.csproj.CopyComplete
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\obj\Release\Elements.Core.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\obj\Release\Elements.Core.pdb
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Core\obj\Release\Elements.Core.csprojAssemblyReference.cache

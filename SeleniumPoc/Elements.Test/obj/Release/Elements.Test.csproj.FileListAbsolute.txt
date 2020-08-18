@@ -1,0 +1,266 @@
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\Elements.Test.dll.config
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\Elements.Test.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\Elements.Test.pdb
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\dnkUtils.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\Elements.Core.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\Elements.Pages.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\log4net.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\Microsoft.Expression.Encoder.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\Newtonsoft.Json.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\nunit.framework.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\Selenium.WebDriverBackedSelenium.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\WebDriver.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\WebDriver.Support.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\System.Reactive.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\System.ValueTuple.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\netstandard.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\Elements.Core.pdb
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\Elements.Core.dll.config
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\Elements.Pages.pdb
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\Elements.Pages.dll.config
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\log4net.xml
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\Newtonsoft.Json.pdb
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\Newtonsoft.Json.xml
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\nunit.framework.pdb
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\nunit.framework.xml
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\Selenium.WebDriverBackedSelenium.xml
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\WebDriver.xml
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\WebDriver.Support.xml
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\System.Reactive.xml
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\System.ValueTuple.xml
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\obj\Release\Elements.Test.csprojAssemblyReference.cache
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\obj\Release\Elements.Test.csproj.CoreCompileInputs.cache
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\obj\Release\Elements.Test.csproj.CopyComplete
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\obj\Release\Elements.Test.dll
+C:\Users\karthik_r\source\repos\Elements.Selenium\Elements.Test\obj\Release\Elements.Test.pdb
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\Elements.Test.dll.config
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\Elements.Test.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\Elements.Test.pdb
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\dnkUtils.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\Elements.Core.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\Elements.Pages.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\log4net.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\Microsoft.Expression.Encoder.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\Newtonsoft.Json.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\nunit.framework.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\Selenium.WebDriverBackedSelenium.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\WebDriver.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\WebDriver.Support.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\System.Reactive.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\System.ValueTuple.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\netstandard.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\Elements.Core.pdb
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\Elements.Core.dll.config
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\Elements.Pages.pdb
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\Elements.Pages.dll.config
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\log4net.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\Newtonsoft.Json.pdb
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\Newtonsoft.Json.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\nunit.framework.pdb
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\nunit.framework.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\Selenium.WebDriverBackedSelenium.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\WebDriver.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\WebDriver.Support.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\System.Reactive.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\System.ValueTuple.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\obj\Release\Elements.Test.csprojAssemblyReference.cache
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\obj\Release\Elements.Test.csproj.CoreCompileInputs.cache
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\obj\Release\Elements.Test.csproj.CopyComplete
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\obj\Release\Elements.Test.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\01042019\1222\Elements.Selenium\Elements.Test\obj\Release\Elements.Test.pdb
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\Elements.Test.dll.config
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\Elements.Test.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\Elements.Test.pdb
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\dnkUtils.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\Elements.Core.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\Elements.Pages.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\log4net.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\Microsoft.Expression.Encoder.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\Newtonsoft.Json.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\nunit.framework.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\Selenium.WebDriverBackedSelenium.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\WebDriver.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\WebDriver.Support.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\System.Reactive.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\System.ValueTuple.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\netstandard.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\Elements.Core.pdb
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\Elements.Core.dll.config
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\Elements.Pages.pdb
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\Elements.Pages.dll.config
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\log4net.xml
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\Newtonsoft.Json.pdb
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\Newtonsoft.Json.xml
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\nunit.framework.pdb
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\nunit.framework.xml
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\Selenium.WebDriverBackedSelenium.xml
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\WebDriver.xml
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\WebDriver.Support.xml
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\System.Reactive.xml
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\System.ValueTuple.xml
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\obj\Release\Elements.Test.csprojAssemblyReference.cache
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\obj\Release\Elements.Test.csproj.CoreCompileInputs.cache
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\obj\Release\Elements.Test.csproj.CopyComplete
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\obj\Release\Elements.Test.dll
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\obj\Release\Elements.Test.pdb
+C:\Users\karthik_r\source\repos\Saurabh\03042019_0432\Elements.Selenium\Elements.Test\bin\Release\SeleniumExtras.WaitHelpers.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\AutoItX3.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\AutoItX3_x64.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\Elements.Test.dll.config
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\Elements.Test.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\Elements.Test.pdb
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\AutoItX3.Assembly.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\dnkUtils.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\Elements.Core.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\Elements.Pages.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\log4net.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\Microsoft.Expression.Encoder.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\Newtonsoft.Json.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\nunit.framework.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\Selenium.WebDriverBackedSelenium.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\SeleniumExtras.WaitHelpers.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\WebDriver.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\WebDriver.Support.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\System.Reactive.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\System.ValueTuple.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\netstandard.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\Elements.Core.pdb
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\Elements.Core.dll.config
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\Elements.Pages.pdb
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\Elements.Pages.dll.config
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\AutoItX3.Assembly.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\log4net.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\Newtonsoft.Json.pdb
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\Newtonsoft.Json.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\nunit.framework.pdb
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\nunit.framework.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\Selenium.WebDriverBackedSelenium.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\WebDriver.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\WebDriver.Support.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\System.Reactive.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\System.ValueTuple.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\obj\Release\Elements.Test.csprojAssemblyReference.cache
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\obj\Release\Interop.AutoItX3Lib.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\obj\Release\Elements.Test.csproj.ResolveComReference.cache
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\obj\Release\Elements.Test.csproj.CoreCompileInputs.cache
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\obj\Release\Elements.Test.csproj.CopyComplete
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\obj\Release\Elements.Test.dll
+C:\Users\saurabh.keshari\source\repos\Elements.Selenium\04042019\0907\Elements.Selenium\Elements.Test\obj\Release\Elements.Test.pdb
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\AutoItX3.dll
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\AutoItX3_x64.dll
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\Elements.Test.dll.config
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\Elements.Test.dll
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\Elements.Test.pdb
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\AutoItX3.Assembly.dll
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\dnkUtils.dll
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\Elements.Core.dll
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\Elements.Pages.dll
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\log4net.dll
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\Microsoft.Expression.Encoder.dll
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\Newtonsoft.Json.dll
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\nunit.framework.dll
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\Selenium.WebDriverBackedSelenium.dll
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\SeleniumExtras.WaitHelpers.dll
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\System.Security.Principal.Windows.dll
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\WebDriver.dll
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\WebDriver.Support.dll
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\System.Reactive.dll
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\System.ValueTuple.dll
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\netstandard.dll
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\Elements.Core.pdb
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\Elements.Core.dll.config
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\Elements.Pages.pdb
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\Elements.Pages.dll.config
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\AutoItX3.Assembly.xml
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\log4net.xml
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\Newtonsoft.Json.pdb
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\Newtonsoft.Json.xml
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\nunit.framework.pdb
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\nunit.framework.xml
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\Selenium.WebDriverBackedSelenium.xml
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\WebDriver.xml
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\WebDriver.Support.xml
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\System.Reactive.xml
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\System.ValueTuple.xml
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Selenium POC\Elements.Selenium\Elements.Test\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Selenium POC\Elements.Selenium\Elements.Test\obj\Release\Elements.Test.csprojAssemblyReference.cache
+C:\Selenium POC\Elements.Selenium\Elements.Test\obj\Release\Elements.Test.csproj.ResolveComReference.cache
+C:\Selenium POC\Elements.Selenium\Elements.Test\obj\Release\Elements.Test.csproj.CoreCompileInputs.cache
+C:\Selenium POC\Elements.Selenium\Elements.Test\obj\Release\Elements.Test.csproj.CopyComplete
+C:\Selenium POC\Elements.Selenium\Elements.Test\obj\Release\Elements.Test.dll
+C:\Selenium POC\Elements.Selenium\Elements.Test\obj\Release\Elements.Test.pdb
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\AutoItX3.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\AutoItX3_x64.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\Elements.Test.dll.config
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\Elements.Test.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\Elements.Test.pdb
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\AutoItX3.Assembly.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\dnkUtils.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\Elements.Core.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\Elements.Pages.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\log4net.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\Microsoft.Expression.Encoder.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\Newtonsoft.Json.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\nunit.framework.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\Selenium.WebDriverBackedSelenium.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\SeleniumExtras.WaitHelpers.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\System.Security.Principal.Windows.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\WebDriver.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\WebDriver.Support.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\System.Reactive.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\System.ValueTuple.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\netstandard.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\Elements.Core.pdb
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\Elements.Core.dll.config
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\Elements.Pages.pdb
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\Elements.Pages.dll.config
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\AutoItX3.Assembly.xml
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\log4net.xml
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\Newtonsoft.Json.pdb
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\Newtonsoft.Json.xml
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\nunit.framework.pdb
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\nunit.framework.xml
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\Selenium.WebDriverBackedSelenium.xml
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\WebDriver.xml
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\WebDriver.Support.xml
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\System.Reactive.xml
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\System.ValueTuple.xml
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\obj\Release\Elements.Test.csprojAssemblyReference.cache
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\obj\Release\Elements.Test.csproj.ResolveComReference.cache
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\obj\Release\Elements.Test.csproj.CoreCompileInputs.cache
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\obj\Release\Elements.Test.csproj.CopyComplete
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\obj\Release\Elements.Test.dll
+C:\Projects\Selenium POC\Selenium-POC_FromGit\Elements.Selenium\Elements.Test\obj\Release\Elements.Test.pdb

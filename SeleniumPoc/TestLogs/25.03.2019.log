@@ -1,0 +1,5 @@
+2019-03-25 21:34:15,817, [12], INFO , Elements.Core.AutomationBase, [(null)], Entering the Method
+2019-03-25 21:49:36,900, [12], INFO , Elements.Core.AutomationBase, [(null)], Entering the Method
+2019-03-25 21:49:36,945, [12], INFO , Elements.Test.PageTests.LoginToElements, [(null)], Log current method
+2019-03-25 21:51:07,492, [12], INFO , Elements.Core.AutomationBase, [(null)], Entering the Method
+2019-03-25 21:51:07,544, [12], INFO , Elements.Test.PageTests.LoginToElements, [(null)], Log current method
