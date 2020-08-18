@@ -65,6 +65,7 @@
   <ItemGroup>
     <Compile Include="Core.Demo.cs" />
     <Compile Include="Demo.cs" />
+    <Compile Include="Keywords.cs" />
     <Compile Include="LogicalProgramsDerivation.cs" />
     <Compile Include="OOPs.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

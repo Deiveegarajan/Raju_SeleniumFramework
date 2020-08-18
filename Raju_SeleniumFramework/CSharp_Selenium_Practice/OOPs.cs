@@ -278,7 +278,7 @@ namespace CSharp_Selenium_Practice
      * Inheritance applies only to classes and interfaces. Other type categories (structs, delegates, and enums) do not support inheritance
      * Code reusabiltiy and providing more functionality
      * If a class has private constrcutor,it cannot be inherited
-     * 
+     * We can't access the private members of parent class
      */
     #region 1. Inner Class Inheritance
     public class InheritanceBaseClass
@@ -581,7 +581,5 @@ namespace CSharp_Selenium_Practice
      
     }
     #endregion
-
-
 
 }

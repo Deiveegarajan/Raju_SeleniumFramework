@@ -29,6 +29,14 @@ namespace CSharp_Selenium_Practice
         }
 
         [Test]
+        public void Keywords()
+        {
+
+            var basicProgram = new Keywords();
+            basicProgram.Object(10.0);//we can pass any type of values as parameter
+        }
+
+        [Test]
         public void StringProcessing()
         {
             var text = new StringAndTextProcessing();
@@ -166,13 +174,7 @@ namespace CSharp_Selenium_Practice
         [Test]
         public void Patterns_Pyramid()
         {
-            int number = 10;
-            int i, j, k;
 
-            for (i = 0; i < 5; i++)
-            {
-               
-            }
         }
         [Test]
         public void ArraySum()

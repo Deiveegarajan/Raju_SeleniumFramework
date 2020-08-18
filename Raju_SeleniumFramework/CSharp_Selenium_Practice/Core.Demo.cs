@@ -150,7 +150,7 @@ namespace CSharp_Selenium_Practice
                 throw;
             }
         }
-        //Type 3 : Initialization the 
+        //Type 3 : Initialization 
         public void ArrayNonSpecifieidIndexValuesWhileInitializingElements()
         {
             int[] oneDimension = new int[] { 1, 2, 3, 4, 5,6,7,8,9 };

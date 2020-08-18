@@ -15,7 +15,9 @@ namespace TestBase1
         public void Login()
         {
             IWebDriver driver = new ChromeDriver();
-            driver.Manage().Window.
+            //driver.Manage().Window.
+
+            dynamic d;
         }
     }
 }
