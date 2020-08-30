@@ -78,6 +78,56 @@ namespace CSharp_Selenium_Practice
         }
 
         #endregion - Patterns
+
+        #region -String and Text Processing
+        public string RemoveDuplicatesChar(string text)
+        {
+            string result = string.Empty;
+            string store = string.Empty;
+
+            var c = text.IndexOf("t");
+            var c1 = text.IndexOf("e");
+            var c2 = text.IndexOf("x");
+            var c3 = text.IndexOf("t");
+
+            foreach (char value in text)
+            {
+                var v = store.IndexOf(value);
+                if (store.IndexOf(value)== -1)
+                {
+                    store += value;
+                    result += value;
+                }
+            }
+            return result; 
+        }
+        public void ReverseString()
+        {
+            string print = string.Empty;
+            string str = "Good Morning";
+
+            //for (int i = str.Length-1; i >=0; i--)
+            //{
+            //    print += str[i];
+            //}
+
+
+            char[] ch = str.ToCharArray();
+
+            for (int i = ch.Length-1; i >= 0; i--)
+            {
+               var result = ch[i];
+                 print += ch[i];
+            }
+
+        }
+        
+        public void Palindrome()
+        {
+            string str = "MADAM";
+
+        }
+        #endregion 
         public void ArrayReverse()
         {
             dynamic d = 20;

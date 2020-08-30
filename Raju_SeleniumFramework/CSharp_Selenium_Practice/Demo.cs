@@ -12,6 +12,7 @@ namespace CSharp_Selenium_Practice
         {
 
             var basicProgram = new LogicalProgramsDerivation();
+            basicProgram.ReverseString();
             basicProgram.PrintOneValueFromLine(15);
             //  basicProgram.ArrayReverse();
             //  basicProgram.ArrayElementsOfTypeInteger();
